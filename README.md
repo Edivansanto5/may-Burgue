@@ -13,4 +13,5 @@ Esse projeto tem como objetivo desenvolver um projeto em VUE.JS, sobre uma siste
 <p> Em seguida faça o seu projeto Digitando o seguinte comando </p>
 <p> vue create e o nome do projeto sem letras maisculas </p> 
 <p> node -v e para ver a versao do npm basta digitar  npm -v </p> 
+<p>ai e so escolhere o Vue que deseja trabalhar </p>
 
